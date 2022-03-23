@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fdc35b23d8f2894c8f91ad300c9c4d1, type: 3}
+  m_Name: IceFireAttackCard
+  m_EditorClassIdentifier: 
+  cardTitle: Fire & Ice
+  description: Casts both Fire and Ice attacks
+  cost: 3
+  damage: 3
+  damageType: 2
+  cardImage: {fileID: 21300000, guid: a019ff999fe292a49a7b39ca35c7ea17, type: 3}
+  frameImage: {fileID: 21300000, guid: 28f8e25fc3cb97d438024aa1ab2c5e46, type: 3}
+  numberInDeck: 3
+  isDefenceCard: 0
+  isMirrorCard: 0
+  isMulti: 0
